@@ -624,7 +624,7 @@ p {
 		top: 34px;
 		height: 98%;
 		width: 98%;
-		border: 10px solid rgb(0, 247, 255);
+		border: 10px solid rgba(0, 247, 255, 0);
 	}
 	#about .col-right {
 		text-align: left;
