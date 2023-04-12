@@ -42,7 +42,7 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: crimson;
+	color: rgb(0, 255, 13);
 }
 
 .cta {
@@ -50,7 +50,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid crimson;
+	border: 2px solid rgb(68, 255, 0);
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -60,7 +60,7 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: crimson;
+	background-color: rgb(255, 255, 255);
 }
 .brand h1 {
 	font-size: 3rem;
@@ -68,7 +68,7 @@ p {
 	color: white;
 }
 .brand h1 span {
-	color: crimson;
+	color: rgb(255, 255, 255);
 }
 
 /* Header section */
@@ -140,7 +140,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: crimson;
+	color: rgb(255, 255, 255);
 }
 #header .hamburger {
 	height: 60px;
