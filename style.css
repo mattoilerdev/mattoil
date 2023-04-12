@@ -82,7 +82,7 @@ p {
 }
 #header .header {
 	min-height: 8vh;
-	background-color: rgba(31, 30, 30, 0.24);
+	background-color: rgb(255, 89, 0);
 	transition: 0.3s ease background-color;
 }
 #header .nav-bar {
@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
+	background-image: url(./img/sfonduz.jpeg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
