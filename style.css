@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(././img/sfonduz.jpeg);
+	background-image: url(./img/sfonduz.jpeg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -266,7 +266,7 @@ p {
 
 /* Services Section */
 #services {
-	background-image: url(././img/sfonduz.jpeg);
+	background-image: url(./img/sfonduz.jpeg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
