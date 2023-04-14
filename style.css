@@ -265,6 +265,13 @@ p {
 /* End Hero Section */
 
 /* Services Section */
+#services {
+	background-image: url(./img/sfonduz.jpeg);
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+	z-index: 1;
+}
 #services .services {
 	flex-direction: column;
 	text-align: center;
@@ -327,6 +334,13 @@ p {
 /* End Services Section */
 
 /* Projects section */
+#projects {
+	background-image: url(./img/sfonduz.jpeg);
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+	z-index: 1;
+}
 #projects .projects {
 	flex-direction: column;
 	max-width: 1200px;
@@ -400,6 +414,13 @@ p {
 /* End Projects section */
 
 /* About Section */
+#about {
+	background-image: url(./img/sfonduz.jpeg);
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+	z-index: 1;
+}
 #about .about {
 	flex-direction: column-reverse;
 	text-align: center;
@@ -448,6 +469,13 @@ p {
 /* End About Section */
 
 /* contact Section */
+#contact {
+	background-image: url(./img/sfonduz.jpeg);
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+	z-index: 1;
+}
 #contact .contact {
 	flex-direction: column;
 	max-width: 1200px;
